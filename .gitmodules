@@ -1,0 +1,9 @@
+[submodule "chatbot-api"]
+	path = chatbot-api
+	url = https://github.com/Trungpham2k4/chatbot-api
+[submodule "chatbot-backend"]
+	path = chatbot-backend
+	url = https://github.com/Trungpham2k4/chatbot-backend
+[submodule "chatbot-frontend"]
+	path = chatbot-frontend
+	url = https://github.com/Trungpham2k4/chatbot-frontend
