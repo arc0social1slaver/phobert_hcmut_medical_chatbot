@@ -15,6 +15,7 @@
 
 
 ## Update submodules repo
+
 ### Structure
 chatbot_app/          <- repo chính \
 ├── backend_chatbot/  <- submodule
@@ -31,5 +32,7 @@ git add backend_chatbot \
 git commit -m "Update backend_chatbot submodule to latest commit" \
 git push origin web-app
 
+## Pull submodules
+git submodule update --init --recursive
 
 
